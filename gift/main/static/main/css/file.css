@@ -1,0 +1,53 @@
+
+body {
+    background: pink;
+}
+
+aside {
+    background: #808080;
+    width: %;
+    padding: .8%;
+    color: #fff;
+}
+
+aside img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 4px;
+  width: 150px;
+}
+
+aside ul {list-style: none}
+
+aside ul li {
+    color: #fff;
+    display: block;
+    margin-top: 10px;
+    transition: transform .6s
+    float: right;
+    list-style-type: none;
+    margin: 0 10px;
+}
+
+li {
+  float: right;
+}
+
+.heading h1 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 40%;
+}
+
+.photo img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 4px;
+  width: 400px;
+}
+
+
+
+
+
